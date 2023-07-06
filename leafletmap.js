@@ -3962,7 +3962,18 @@ var geojsonFeature = {
     }
   ]
 }
+<<<<<<< HEAD
 
 L.geoJSON(geojsonFeature, {
   onEachFeature: onEachFeature
 }).addTo(map);
+=======
+
+L.geoJSON(geojsonFeature, {
+  onEachFeature: onEachFeature
+}).addTo(map);
+
+
+
+
+>>>>>>> 904e725 (commit)
